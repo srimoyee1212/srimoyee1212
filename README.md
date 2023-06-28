@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I love visiting art museums and I'm always open to art history recommendations!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: srimoyeem1@gmail.com</h3>
 <p align="left">
 </p>
 
