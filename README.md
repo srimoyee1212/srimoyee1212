@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science, ML and Vision Projects**
 
-- ⚡ Fun fact **I love visiting art museums and I'm always open to art history recommendations!**
+- ⚡ Fun fact! **I love visiting art museums and I'm always open to art history recommendations!**
 
 <h3 align="left">Connect with me: srimoyeem1@gmail.com</h3>
 
