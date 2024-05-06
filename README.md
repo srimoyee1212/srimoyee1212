@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact! **I love visiting art museums and I'm always open to art history recommendations!**
 
+- P.S I just added some of my cool older local projects to Github!
+
 <h3 align="left">Connect with me: srimoyeem1@gmail.com</h3>
 
 <p align="left">
