@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Srimoyee</h1>
 <h3 align="center">Grad student at Cornell</h3>
 
-- 🔭 I’m currently working on **researching social biases in Large Language Models**
+- 🔭 I’m currently working on **researching social biases in Large Language Models** ✨
 
-- 🌱 I’m currently learning **HuggingFace, LangChain**
+- 🌱 I’m currently learning **RLHF for LLMs, Edge Computing for Large Vision and Language Models**
 
 - 👯 I’m looking to collaborate on **Data Science, ML and Vision Projects**
 
