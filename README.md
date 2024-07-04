@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srimoyee</h1>
-<h3 align="center">Grad student at Cornell</h3>
+<h3 align="center">Machine Learning Engineer | Cornell Grad</h3>
 
 - 🔭 I’m currently working on **researching social biases in Large Language Models** ✨
 
