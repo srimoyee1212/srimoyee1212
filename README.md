@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Srimoyee</h1>
 <h3 align="center">Machine Learning Engineer | Cornell Grad</h3>
 
+[View my portfolio 🔗](https://srimoyee1212.github.io/)
+
 - 🔭 I’m currently working on **researching social biases in Large Language Models** ✨
 
 - 🌱 I’m currently learning **RLHF for LLMs, Edge Computing for Large Vision and Language Models**
