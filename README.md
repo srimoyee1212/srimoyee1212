@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **researching social biases in Large Language Models** ✨
 
-- 🌱 I’m currently learning **RLHF for LLMs, Edge Computing for Large Vision and Language Models**
+- 🌱 I’m currently learning **AI Agents, Edge Computing for Large Vision and Language Models**
 
 - 👯 I’m looking to collaborate on **Data Science, ML and Vision Projects**
 
