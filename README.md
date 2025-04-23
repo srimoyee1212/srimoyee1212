@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋 I'm Srimoyee</h1>
-<h3 align="center">Machine Learning Engineer | Cornell Graduate | Researcher in Responsible AI</h3>
+<h3 align="center">Machine Learning Engineer | Cornell Grad | Researcher in Responsible AI</h3>
 
 <p align="center">
   🔍 Exploring the intersection of AI and society | 🎨 Art enthusiast on the side
