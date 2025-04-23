@@ -49,3 +49,9 @@
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=srimoyee1212" alt="GitHub Trophies"/>
 </p>
+
+
+### 🐍 GitHub Activity Snake
+
+![GitHub Snake Light](https://raw.githubusercontent.com/srimoyee1212/srimoyee1212/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/srimoyee1212/srimoyee1212/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
