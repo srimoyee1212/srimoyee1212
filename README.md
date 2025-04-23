@@ -21,7 +21,6 @@
 ### 📫 Get in Touch
 
 **Email:** srimoyeem1@gmail.com  
-**LinkedIn:** *Coming soon?* 😄
 
 ---
 
@@ -45,10 +44,6 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srimoyee1212&show_icons=true&locale=en&layout=compact" alt="Top Langs"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srimoyee1212" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="left">
