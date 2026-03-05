@@ -9,7 +9,7 @@
 
 ### 💻 What I'm Up To
 
-- 🔭 Currently researching **social biases in Large Language Models**  
+- 🔭 Currently researching **social biases in MLLMs**  
 - 🌱 Learning about **AI Agents** and **Edge Computing for Multimodal Models**  
 - 🤝 Open to collaborating on **Data Science**, **ML**, and **Computer Vision** projects  
 - 🖼️ Fun fact: I love visiting art museums — always down for a chat about art history!
